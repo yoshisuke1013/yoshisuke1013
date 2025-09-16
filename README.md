@@ -14,6 +14,7 @@
   <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs" /></a>
   <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original.svg" width="40" height="40" alt="express" /></a>
   <a href="https://astro.build"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/astro/astro-original.svg" width="40" height="40" alt="astro" /></a>
+  <a href="https://ja.wordpress.org"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="wordpress" /></a>
 </p>
 
 <br/>
