@@ -44,6 +44,11 @@
 
 ## ✏️ 学習記録
 
+### 🗓️ 2025/09/15 〜 2025/09/20
+
+- [Udemy](https://www.udemy.com)📘
+  - [【React19対応】初心者から中級者へ！React+Typescriptで本格的なSlackクローンを作ろう](https://www.udemy.com/course/react-typescript-slack/) ✅
+
 ### 🗓️ 2025/09/11 〜 2025/09/14
 
 - [Udemy](https://www.udemy.com)📘
